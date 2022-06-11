@@ -1,0 +1,28 @@
+_02ddd67d5586_key=
+_8382f1c42598_iv=
+-----BEGIN DSA PRIVATE KEY-----
+-----BEGIN EC PRIVATE KEY-----
+-----BEGIN OPENSSH PRIVATE KEY-----
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+-----BEGIN RSA PRIVATE KEY-----
+--branch=
+--closure_entry_point=
+--host=
+--ignore-ssl-errors=
+--org=
+--password=
+--port=
+--token=
+--username=
+-DdbUrl=
+-Dgpg.passphrase=
+-Dmaven.javadoc.skip=
+-DSELION_BROWSER_RUN_HEADLESS=
+-DSELION_DOWNLOAD_DEPENDENCIES=
+-DSELION_SELENIUM_RUN_LOCALLY=
+-DSELION_SELENIUM_USE_GECKODRIVER=
+-DskipTests=
+-Dsonar.login=
+-Dsonar.organization=
+-Dsonar.projectKey=
+-e=
